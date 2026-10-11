@@ -28,7 +28,7 @@ Samsung Innovation Campus, en conjunto con la ONG Innovacien, organizó un hacka
 
 ##  MP3,</br>FLAC,</br> Otros ➡️ WAV ➡️ JSON ➡️ Texto ➡️ Análisis de sentimiento
 
-</br>
+</br></br>
 
 💙 <strong>Alejandra Contreras</strong></br></br>
 <a href="https://www.linkedin.com/in/alejandraconb-dev/" target="_blank">
