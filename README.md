@@ -26,7 +26,7 @@ Samsung Innovation Campus, en conjunto con la ONG Innovacien, organizó un hacka
 
 </br>
 
-    ###  MP3,</br>FLAC,</br> Otros ➡️ WAV ➡️ JSON ➡️ Texto ➡️ Análisis de sentimiento
+  ###  MP3,</br>FLAC,</br> Otros ➡️ WAV ➡️ JSON ➡️ Texto ➡️ Análisis de sentimiento
 
 </br></br>
 
