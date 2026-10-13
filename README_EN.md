@@ -1,32 +1,32 @@
 # 📌 Hackaton_SIC_2025_ETM
-Samsung Innovation Campus, en conjunto con la ONG Innovacien, organizó un hackathon de 12 horas donde Samsung planteó una problemática de su área de Ventas: los promotores de Samsung interactuaban diariamente con clientes, pero no existía una forma estructurada de capturar el resultado emocional de esas interacciones. Sin esa información, Samsung no podía vincular la satisfacción del cliente con acciones concretas para mejorar ventas. Cada equipo de 5 personas debía proponer una solución tecnológica a este desafío en una sola noche.
+Samsung Innovation Campus, together with the NGO Innovacien, organized a 12-hour hackathon where Samsung raised a problem in its Sales area: Samsung promoters interacted daily with customers, but there was no structured way to capture the emotional result of those interactions. Without this information, Samsung could not link customer satisfaction with concrete actions to improve sales. Each team of 5 people had to propose a technological solution to this challenge in a single evening.
 
-## 🖥️ Tecnologías Utilizadas:
+## 🖥️ Technologies Used:
 
 - Python 3.12+
 - FFmpeg 
 - Jupiter Notbook
 - Colab
 
-## 📦 Requisitos:
+## 📦 Requirements:
 
-- Utilizar Google Colab.
-- Importar la biblioteca openai-whisper.
-- Importar la biblioteca pysentimiento.
-- Importar la biblioteca setuptools-rust.
-- Importar la biblioteca spacy.
+- Using Google Colab.
+- Import the openai-whisper library.
+- Import the pysentimento library.
+- Import the setuptools-rust library.
+- Import the spacy library.
 
-## ▶️ Cómo ejecutar el código
+## ▶️ How to run the code:
 
-- Clona o descarga el proyecto.
-- Guarda el código en un archivo, por ejemplo: Hackaton_SIC_2025_ETM.py.
-- Abre una terminal o consola.
-- Navega hasta la carpeta donde guardaste el archivo.
-- Ejecuta el programa.
+- Clone or download the project.
+- Save the code in a file, for example: Hackaton_SIC_2025_ETM.py.
+- Open a terminal or console.
+- Navigate to the folder where you saved the file.
+- Run the program.
 
 </br>
 
-  ###  MP3,</br>FLAC,</br> Otros ➡️ WAV ➡️ JSON ➡️ Texto ➡️ Análisis de sentimiento
+  ###  MP3,</br>FLAC,</br> Otros ➡️ WAV ➡️ JSON ➡️ Text ➡️ Sentiment analysis
 
 </br></br>
 
